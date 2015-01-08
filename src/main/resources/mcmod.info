@@ -1,0 +1,21 @@
+[
+{
+    "modid" : "TFBCTestMod",
+    "name" : "TFBC's Test Mod",
+    "description" : "This is a test mod for TFBC's dev stuff.",
+    "version" : "1.7.10-0.1",
+    "mcversion" : "1.7.10",
+    "url" : "",
+    "updateUrl" : "",
+    "authorList" : [
+        "TFBC"
+    ],
+    "credits" : "Me.",
+    "logoFile" : "",
+    "screenshots" : [
+    ],
+    "parent" : "",
+    "dependencies" : [
+    ]
+}
+]
